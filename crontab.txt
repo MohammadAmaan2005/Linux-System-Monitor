@@ -1,0 +1,2 @@
+# Run monitor.sh every 5 minutes and save output to a log file
+*/5 * * * * /path/to/Linux-System-Monitor/monitor.sh --save /home/amaan/sysmon.log
